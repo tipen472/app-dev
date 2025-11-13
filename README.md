@@ -1,2 +1,2 @@
 # app-dev
-My First repository
+My first repository
